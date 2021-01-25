@@ -34,12 +34,11 @@
 
 
 <br/>
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Jun-Crypto GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Juni-crypto&show_icons=true&hide_border=true" />
-
 </details>
 
 [instagram]: https://instagram.com/currently_in_845process?igshid=35f2lyej4ldk
