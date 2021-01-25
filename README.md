@@ -18,6 +18,8 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Juni-Crypto | Discord" width ="22px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+"/>][Discord]
 
 <br />
 
@@ -43,4 +45,4 @@
 
 [instagram]: https://instagram.com/currently_in_845process?igshid=35f2lyej4ldk
 [linkedin]: https://www.linkedin.com/in/hema-chander-0984b8176/
-
+[Discord]:https://discord.gg/pKQrkMHwnM
