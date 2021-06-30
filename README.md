@@ -11,7 +11,7 @@
 - Still a noobie running around <img alt="ROS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png"/>
 
 ## Gitlab-Certified Associate
-[![Gitlab-Certified Associate](https://raw.githubusercontent.com/Juni-crypto/Juni-crypto/master/img/gitlab.png)](https://gitlab.badgr.com/public/assertions/VIWwuKvgRmivJYWf-sIvOg)
+[![Gitlab-Certified Associate](https://raw.githubusercontent.com/Juni-crypto/Juni-crypto/master/img/gitlab.png {width=40px height=40px})](https://gitlab.badgr.com/public/assertions/VIWwuKvgRmivJYWf-sIvOg)
 
 ### Spotify Playing 🎧
 
