@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I love on going adventure trips
 - Still a noobie running around <img alt="ROS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png"/>
 
+## Gitlab-Certified Associate
+[![Gitlab-Certified Associate](img\gitlab.png](https://gitlab.badgr.com/public/assertions/VIWwuKvgRmivJYWf-sIvOg)
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-5tqkc0wdm.vercel.app/api/spotify.py" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/g7l82xy6yjc9q0hbhddbwyf3z)
