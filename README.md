@@ -9,8 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love on going adventure trips
 - Still a noobie running around <img alt="ROS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png"/>
-
-## Gitlab-Certified Associate
+- Gitlab-Certified Associate
 [![Gitlab-Certified Associate](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.badgr.com/public/assertions/VIWwuKvgRmivJYWf-sIvOg)
 
 ### Spotify Playing 🎧
