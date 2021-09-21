@@ -36,6 +36,10 @@
 
 <br/>
 <br/>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=socrates&font=Redressed)
+
+<br/>
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
